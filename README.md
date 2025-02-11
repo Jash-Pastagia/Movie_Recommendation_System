@@ -44,4 +44,23 @@ The **Movie Recommendation System** is a content-based recommendation engine tha
    -Add the API key to config.py or set it as an environment variable.  
 4. Run the application:  
    ```bash  
-   streamlit run app.py  
+   streamlit run app.py
+
+## **Usage**  
+1. **Launch the Web App**:  
+   - Run the app using the command above.  
+   - Open the provided local URL in your browser.  
+
+2. **Search for Movies**:  
+   - Enter a movie title in the search bar.  
+   - The system will display similar movies based on metadata.  
+
+3. **Explore Recommendations**:  
+   - Click on a movie poster to view details like title, overview, and release date.  
+
+---
+
+## **Dataset**  
+The system uses the **TMDB 5000 Movie Dataset**, which includes:  
+- **Movies Metadata**: Title, genres, cast, crew, keywords, overview, release date, etc.  
+- **Credits Data**: Cast and crew information for each movie.  
