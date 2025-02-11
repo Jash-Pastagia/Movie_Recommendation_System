@@ -56,7 +56,7 @@ The **Movie Recommendation System** is a content-based recommendation engine tha
    - The system will display similar movies based on metadata.  
 
 3. **Explore Recommendations**:  
-   - Click on a movie poster to view details like title, overview, and release date.  
+   - See on a movie poster to view details title.  
 
 ---
 
